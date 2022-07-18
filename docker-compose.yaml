@@ -1,0 +1,5 @@
+service:
+  easy_claim:
+    image: easyclaim
+    ports:
+    - '80:80'
